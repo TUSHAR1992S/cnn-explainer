@@ -1,6 +1,6 @@
 # CNN Explainer
 
-An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs)
+An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs) https://poloclub.github.io/cnn-explainer/
 
 [![build](https://github.com/poloclub/cnn-explainer/workflows/build/badge.svg)](https://github.com/poloclub/cnn-explainer/actions)
 [![arxiv badge](https://img.shields.io/badge/arXiv-2004.15004-red)](http://arxiv.org/abs/2004.15004)
